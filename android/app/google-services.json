@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88423120560",
+    "project_id": "truesouth-tech",
+    "storage_bucket": "truesouth-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88423120560:android:f359db1b0a56d1cadb4575",
+        "android_client_info": {
+          "package_name": "com.example.truesouth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88423120560-uakan9upo63jv2vovabn8rd0991g1co9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48Uu440JkO-ovqql6bWcloDZfSPsis28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88423120560-uakan9upo63jv2vovabn8rd0991g1co9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
